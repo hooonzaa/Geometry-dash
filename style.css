@@ -1,0 +1,19 @@
+.Video{
+    display: flex;
+    justify-content: center;
+}
+.Footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+    }
+.Maps{
+    color: aliceblue;
+    background-color: black;
+}
+.Maps{
+    color: red;
+    background-color: black;
+}
